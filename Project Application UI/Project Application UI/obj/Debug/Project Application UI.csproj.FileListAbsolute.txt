@@ -1,0 +1,15 @@
+C:\Project 300\Project Application UI\Project Application UI\bin\Debug\Project Application UI.exe.config
+C:\Project 300\Project Application UI\Project Application UI\bin\Debug\Project Application UI.exe
+C:\Project 300\Project Application UI\Project Application UI\bin\Debug\Project Application UI.pdb
+C:\Project 300\Project Application UI\Project Application UI\obj\Debug\Project Application UI.csproj.AssemblyReference.cache
+C:\Project 300\Project Application UI\Project Application UI\obj\Debug\MainWindow.g.cs
+C:\Project 300\Project Application UI\Project Application UI\obj\Debug\App.g.cs
+C:\Project 300\Project Application UI\Project Application UI\obj\Debug\Project Application UI_MarkupCompile.cache
+C:\Project 300\Project Application UI\Project Application UI\obj\Debug\Project Application UI_MarkupCompile.lref
+C:\Project 300\Project Application UI\Project Application UI\obj\Debug\MainWindow.baml
+C:\Project 300\Project Application UI\Project Application UI\obj\Debug\Project Application UI.g.resources
+C:\Project 300\Project Application UI\Project Application UI\obj\Debug\Project_Application_UI.Properties.Resources.resources
+C:\Project 300\Project Application UI\Project Application UI\obj\Debug\Project Application UI.csproj.GenerateResource.cache
+C:\Project 300\Project Application UI\Project Application UI\obj\Debug\Project Application UI.csproj.CoreCompileInputs.cache
+C:\Project 300\Project Application UI\Project Application UI\obj\Debug\Project Application UI.exe
+C:\Project 300\Project Application UI\Project Application UI\obj\Debug\Project Application UI.pdb

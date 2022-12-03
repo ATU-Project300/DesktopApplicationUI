@@ -1,0 +1,33 @@
+﻿<Window x:Class="Project_Application_UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_Application_UI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="1600">
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="869" VerticalAlignment="Top" Width="410" Background="#28282a">
+            <Grid HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="50" Margin="10,10,0,0">
+                <Grid.Background>
+                    <ImageBrush ImageSource="images/—Pngtree—vector setting icon_3767853.png"/>
+                </Grid.Background>
+            </Grid>
+            <Grid HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="50" Margin="350,10,0,0">
+                <Grid.Background>
+                    <ImageBrush ImageSource="images/search-26242.png"/>
+                </Grid.Background>
+            </Grid>
+            <TextBlock HorizontalAlignment="Left" Margin="155,10,0,0" TextWrapping="Wrap" Text="Home" VerticalAlignment="Top" Height="50" Width="100" FontSize="36" Foreground="#FF474646"/>
+            <TextBlock HorizontalAlignment="Left" Margin="91,295,0,0" TextWrapping="Wrap" Text="Recent" VerticalAlignment="Top" Height="50" Width="164" FontSize="36" Foreground="#FF474646"/>
+            <TextBlock HorizontalAlignment="Left" Margin="91,406,0,0" TextWrapping="Wrap" Text="All games" VerticalAlignment="Top" Height="50" Width="164" FontSize="36" Foreground="#FF474646"/>
+            <TextBlock HorizontalAlignment="Left" Margin="91,520,0,0" TextWrapping="Wrap" Text="Saved" VerticalAlignment="Top" Height="50" Width="164" FontSize="36" Foreground="#FF474646"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="869" Margin="410,0,0,0" VerticalAlignment="Top" Width="1182" Background="#1f2428">
+            <TextBlock HorizontalAlignment="Left" Margin="472,31,0,0" TextWrapping="Wrap" Text="Now Playable" VerticalAlignment="Top" Height="54" Width="239" FontSize="36" OpacityMask="#FF474646" Foreground="#FF474646"/>
+            <Button Content="Filter" HorizontalAlignment="Left" Margin="40,31,0,0" VerticalAlignment="Top" Width="239" Height="54" FontSize="36" Background="#FF474646" BorderBrush="#FF474646"/>
+            <Button Content="Customize" HorizontalAlignment="Left" Margin="900,31,0,0" VerticalAlignment="Top" Width="239" Height="54" FontSize="36" Background="#FF474646" BorderBrush="#FF474646"/>
+        </Grid>
+
+    </Grid>
+</Window>
