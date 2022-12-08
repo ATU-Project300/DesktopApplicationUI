@@ -16,3 +16,21 @@ C:\UI Application\UI Application\UI Application\obj\Debug\UI Application.pdb
 C:\UI Application\UI Application\UI Application\obj\Debug\Theme\MenuButtonTheme.baml
 C:\UI Application\UI Application\UI Application\obj\Debug\App.baml
 C:\UI Application\UI Application\UI Application\obj\Debug\Theme\TextboxTheme.baml
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\bin\Debug\UI Application.exe.config
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\bin\Debug\UI Application.exe
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\bin\Debug\UI Application.pdb
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\UI Application.csproj.AssemblyReference.cache
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\Theme\MenuButtonTheme.baml
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\Theme\TextboxTheme.baml
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\MainWindow.g.cs
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\App.g.cs
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\UI Application_MarkupCompile.cache
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\UI Application_MarkupCompile.lref
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\App.baml
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\MainWindow.baml
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\UI Application.g.resources
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\UI_Application.Properties.Resources.resources
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\UI Application.csproj.GenerateResource.cache
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\UI Application.csproj.CoreCompileInputs.cache
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\UI Application.exe
+C:\DestkopUIProject300\DesktopApplicationUI\UI Application better\UI Application\UI Application\obj\Debug\UI Application.pdb
