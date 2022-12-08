@@ -9,10 +9,9 @@
         WindowStyle="SingleBorderWindow"
         ResizeMode="NoResize"
         Background="Transparent"
-        
         WindowStartupLocation="CenterScreen">
-
-    <Border CornerRadius="20">
+    <!-- remove line 10 to enable resizing the window when running-->
+    <Border>
         <Border.Background>
             <LinearGradientBrush StartPoint="0,3"
                                  EndPoint="1,1">
@@ -33,7 +32,7 @@
                 <RowDefinition/>
             </Grid.RowDefinitions>
 
-            
+                <!-- below is 2 places where to change color grid and stack panel-->
             <Grid Background="#b06050">
                 <TextBlock Text="Odyssey"
                    VerticalAlignment="Center"
