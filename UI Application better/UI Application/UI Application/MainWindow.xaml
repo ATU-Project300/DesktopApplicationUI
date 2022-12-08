@@ -1,0 +1,103 @@
+﻿<Window x:Class="UI_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI_Application"
+        mc:Ignorable="d"
+        Height="600" Width="920"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen">
+
+    <Border CornerRadius="20">
+        <Border.Background>
+            <LinearGradientBrush StartPoint="0,3"
+                                 EndPoint="1,1">
+                <GradientStop Color="Purple" 
+                              Offset="0.1"/>
+                <GradientStop Color="Yellow"
+                              Offset="2.5"/>
+            </LinearGradientBrush>
+        </Border.Background>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            
+            <Grid Background="red">
+                <TextBlock Text="Odyssey"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Left"
+                   Foreground="White"
+                   FontSize="22"
+                   Margin="20,0,0,0" FontFamily="Segoe UI Black"/>
+            </Grid>
+
+            <StackPanel Background="red" Grid.Row="1">
+
+                <RadioButton Content="Home"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+
+                <RadioButton Content="Recent"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+
+                <RadioButton Content="All Games"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+
+                <RadioButton Content="Play"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+
+
+
+            </StackPanel>
+
+            <TextBox Width="250"
+                     Height="40"
+                     VerticalContentAlignment="Center"
+                     HorizontalAlignment="Left"
+                     Margin="5"
+                     Grid.Column="1"
+                     Style="{StaticResource ModernTextBox}"/>
+
+            <TextBlock Grid.Row="1"
+                            Grid.Column="1"
+                       Text="Playable Games"
+                       VerticalAlignment="Top"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       FontSize="25"
+                       Margin="20,0,0,0" FontFamily="Segoe UI Black"/>
+            
+            
+
+        </Grid>
+
+        
+
+    </Border>
+    
+    
+    
+</Window>
