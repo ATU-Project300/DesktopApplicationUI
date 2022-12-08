@@ -6,10 +6,10 @@
         xmlns:local="clr-namespace:UI_Application"
         mc:Ignorable="d"
         Height="600" Width="920"
-        WindowStyle="None"
+        WindowStyle="SingleBorderWindow"
         ResizeMode="NoResize"
         Background="Transparent"
-        AllowsTransparency="True"
+        
         WindowStartupLocation="CenterScreen">
 
     <Border CornerRadius="20">
@@ -33,7 +33,7 @@
                 <RowDefinition/>
             </Grid.RowDefinitions>
 
-
+            
             <Grid Background="#b06050">
                 <TextBlock Text="Odyssey"
                    VerticalAlignment="Center"
